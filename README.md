@@ -8,37 +8,36 @@ Recommendation to business leaders and non-leaders will be that you deploy your 
 The right approach to reducing churn will firstly require its identification. This is best done using data. To demonstrate this, I have pulled data from Kaggle for ten thousand bank customers from France, Spain and Germany. I had used Power BI for the exploratory analysis to see how age, gender, earnings, of these customers reflects in churn rate.
 In analyzing the dataset, bulk of my time was on cleaning and creating the model. This required I created one fact and eight-dimension tables from the flat file. I do have a later post which shows how I used ML to predict future churns.
 
-Below were my findings:
-Total Data analysis:
+## Below were my findings:
+### Total Data analysis:
 
-•	Of the 10000 bank customers, 2037 were churned
+- Of the 10000 bank customers, 2037 were churned
 
-•	55% identify as Male gender
+- 55% identify as Male gender
 
-•	51% were active 
+- 51% were active 
 
-•	71% were credit card facility
+- 71% were credit card facility
 
-•	50% lived in France, 25% in Germany and 25% from Spain
+- 50% lived in France, 25% in Germany and 25% from Spain
 
-•	51% used just 1 of the bank product, 45% used 2 of the bank products, 3% used 3 of the bank products and very insignificant % used above 3 of the bank products.
+- 51% used just 1 of the bank product, 45% used 2 of the bank products, 3% used 3 of the bank products and very insignificant % used above 3 of the bank products.
 
-Churn customer Analysis: Of the 2037 which 20.4% of the total customers,
+### Churn customer Analysis: Of the 2037 which 20.4% of the total customers,
 
-•	60% identify as females.
+- 60% identify as females.
 
-•	40% lived in France, 40% in Germany and 20% in Spain.
+- 40% lived in France, 40% in Germany and 20% in Spain.
 
-•	69% had just 1 bank product.
+- 69% had just 1 bank product.
 
-•	50% were the bay boomers, 38% were millennials, < 1% were the Gen Z and 8% were the Silent Generation.
+- 50% were the bay boomers, 38% were millennials, < 1% were the Gen Z and 8% were the Silent Generation.
 
-•	Customers with Good credit score churned the most while those with excellent credit score churned the least.
+- Customers with Good credit score churned the most while those with excellent credit score churned the least.
 
-•	Customers with high account balance churned the most recording 38% while those with Low account balance churned the least. 
+- Customers with high account balance churned the most recording 38% while those with Low account balance churned the least. 
 
 I would close by using the known saying: “It’s cheaper to retain an existing customer than getting a new one”.
 
  So, to slow down attrition, businesses should pay closer attention to what customers need and offer the exact product/service that meets the need.
  
- What are your thoughts please?! 
